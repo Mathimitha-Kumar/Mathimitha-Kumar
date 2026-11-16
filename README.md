@@ -6,7 +6,8 @@
 
 * **Stack:** Python, SQL, Scikit-Learn, TensorFlow, Tableau, Azure, Docker, Git
 * **Certs:** Azure AZ-900 | Commvault *(AI-900 in progress)*
-* **Connect:** [LinkedIn]([https://www.linkedin.com/in/mathimitha-kumar/]) · kmadhumitha1999@gmail.com.
+* **Connect:** [LinkedIn]- ([https://www.linkedin.com/in/mathimitha-kumar/]) · kmadhumitha1999@gmail.com.
+* **Project:**mygreatlearning.com/eportfolio/mathimitha-k
 * **Programming & Querying:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow/Keras), SQL (MS SQL Server, T-SQL), Git
 * **Data Visualization & BI:** Tableau, Matplotlib, Seaborn
 * **Cloud & Infrastructure:** Microsoft Azure, Windows Failover Clusters, Docker, Commvault
